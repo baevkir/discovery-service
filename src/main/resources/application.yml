@@ -1,5 +1,9 @@
 server:
-  port: 27017
+  port: 8761
 eureka:
   client:
-    register-with-eureka: false
+    registerWithEureka: false
+    fetchRegistry: false
+spring:
+  application:
+    name: discovery-service
