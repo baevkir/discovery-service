@@ -1,4 +1,4 @@
-package com.familyio.discoveryservice;
+package com.familyiot.discoveryservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
